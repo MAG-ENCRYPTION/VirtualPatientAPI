@@ -1,0 +1,2 @@
+cd C:/Users/MBO_ALAIN_GERARD/Desktop/STAGE_NIV4/APPLICATION/PF_Patient_Virtuel/Code/virtual-patient-api
+python manage.py runserver 0.0.0.0:8000

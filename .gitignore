@@ -1,0 +1,41 @@
+*.bif
+Bayesian_network.bif
+env/
+.idea/
+.git/
+migrations/
+patient-env/
+*.zip
+env.zip
+
+
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.swp
+__pycache__/
+/local_settings.py
+
+# Django environment
+.env
+venv/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Git
+*.orig
+env.zip
