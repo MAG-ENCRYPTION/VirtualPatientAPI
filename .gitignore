@@ -1,5 +1,3 @@
-*.bif
-Bayesian_network.bif
 env/
 .idea/
 .git/
