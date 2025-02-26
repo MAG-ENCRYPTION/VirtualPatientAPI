@@ -1,8 +1,6 @@
-zoneinfo
 asgiref
 asttokens
 backcall
-backports.zoneinfo
 beautifulsoup4
 cachetools
 certifi
