@@ -453,7 +453,7 @@ list_symptoms = [' congestion', ' belly_pain', ' phlegm', ' sinus_pressure', ' c
 ' throat_irritation', ' malaise']
 
 #bn=gum.loadBN("/app/expert_app/media/Bayesian_network.bif")
-bn=gum.loadBN("expert_app\media\Bayesian_network.bif")
+bn=gum.loadBN("expert_app/media/Bayesian_network.bif")
 
 def getSymptom1(disease):
   global bn
